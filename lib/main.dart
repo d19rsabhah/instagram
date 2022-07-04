@@ -25,7 +25,7 @@ void main() async {
           // projectId: "instagram-clone-4cea4",
           // storageBucket: 'instagram-clone-4cea4.appspot.com'
 
-          apiKey: "AIzaSyD6tGQhQYcjhTRAGVzW3C2pSqhV_e9Yp_M",
+        //  apiKey: "AIzaSyD6tGQhQYcjhTRAGVzW3C2pSqhV_e9Yp_M",
           projectId: "instagram-tut-98067",
           storageBucket: "instagram-tut-98067.appspot.com",
           messagingSenderId: "368046350886",
