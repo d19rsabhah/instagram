@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368046350886",
+    "project_id": "instagram-tut-98067",
+    "storage_bucket": "instagram-tut-98067.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368046350886:android:7e2ba739ec8e2e2c6a3ce7",
+        "android_client_info": {
+          "package_name": "com.example.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368046350886-blrpkgimg9s9kc79eg9mib0j9ouomp8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI2LKbcyOSN6Mwt1NYF58H8uNVwrbfvyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368046350886-blrpkgimg9s9kc79eg9mib0j9ouomp8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
